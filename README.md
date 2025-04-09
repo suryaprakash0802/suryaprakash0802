@@ -1,9 +1,9 @@
 ### Hi there, I'm Surya Prakash Shakywal! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/surya-prakash-shakywal/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/suryaprakash0802)
-[![Gmail](https://img.shields.io/badge/Email-Reach%20Me-red?style=flat&logo=gmail)](mailto:surajshakywal4@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-purple?style=flat&logo=globe)](https://portfolio-psi-vert-66.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/surya-prakash-shakywal/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-%23181717?style=flat&logo=github)](https://github.com/suryaprakash0802)
+[![Email](https://img.shields.io/badge/Email-Reach%20Me-%23EA4335?style=flat&logo=gmail)](mailto:surajshakywal4@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-My%20Work-%23563D7C?style=flat&logo=person&logoColor=white)](https://portfolio-psi-vert-66.vercel.app/)
 
 ---
 
