@@ -46,10 +46,10 @@ A passionate Cloud and DevOps Engineer with 2 years of experience, dedicated to 
 
 ### 📈 GitHub Stats
 
-<p align="center">
+
   <img src="https://github-readme-stats.vercel.app/api?username=suryaprakash0802&show_icons=true&theme=radical" alt="GitHub Stats" width="48%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=suryaprakash0802&theme=radical" alt="GitHub Streak" width="48%"/>
-</p>
+
 
 ---
 
