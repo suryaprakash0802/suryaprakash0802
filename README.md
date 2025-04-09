@@ -1,9 +1,15 @@
 ### Hi there, I'm Surya Prakash Shakywal! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/surya-prakash-shakywal/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-%23181717?style=flat&logo=github)](https://github.com/suryaprakash0802)
-[![Email](https://img.shields.io/badge/Email-Reach%20Me-%23EA4335?style=flat&logo=gmail)](mailto:surajshakywal4@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-My%20Work-%23563D7C?style=flat&logo=person&logoColor=white)](https://portfolio-psi-vert-66.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/surya-prakash-shakywal/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/suryaprakash0802)
+[![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:surajshakywal4@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-4B0082?style=flat&logo=google-chrome&logoColor=white)](https://portfolio-psi-vert-66.vercel.app/)
+
+
+---
+
+☁️Cloud & DevOps Engineer with 2+ years of hands-on experience in automating deployments and managing scalable, secure infrastructure across AWS, GCP, and Azure. Proficient in CI/CD pipelines, Docker, Kubernetes, Ansible, and real-time monitoring using Grafana & Prometheus. Passionate about building high-availability systems with clean, efficient automation and performance at scale.♾️⚙️✨
+
 
 ---
 
@@ -53,6 +59,8 @@
 - 🔁 **CI/CD Pipeline using Jenkins** - Reduced software release time by 35% 💡
 - 🏭 **Configuration Management with Ansible** - Automated provisioning with efficiency 🛠️
 - 🐳 **Scalable Dockerized Applications** - Optimized & secured container deployment 🔥
+- 🚀 Deploy Node.js & React on AWS with Docker & GitHub Actions – Fast, secure, auto-scaled delivery ⚙️
+- 📊 Grafana Monitoring using Prometheus – Real-time metrics & dashboards made simple 📈
 
 📂 Check out my repositories for more cool projects!
 
