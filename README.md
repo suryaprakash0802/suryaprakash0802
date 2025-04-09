@@ -3,6 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/surya-prakash-shakywal/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/suryaprakash0802)
 [![Gmail](https://img.shields.io/badge/Email-Reach%20Me-red?style=flat&logo=gmail)](mailto:surajshakywal4@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-purple?style=flat&logo=globe)](https://portfolio-psi-vert-66.vercel.app/)
 
 ---
 
