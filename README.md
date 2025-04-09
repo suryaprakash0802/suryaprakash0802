@@ -8,7 +8,7 @@
 
 ---
 
-☁️Cloud & DevOps Engineer with 2+ years of hands-on experience in automating deployments and managing scalable, secure infrastructure across AWS, GCP, and Azure. Proficient in CI/CD pipelines, Docker, Kubernetes, Ansible, and real-time monitoring using Grafana & Prometheus. Passionate about building high-availability systems with clean, efficient automation and performance at scale.♾️⚙️✨
+A passionate Cloud and DevOps Engineer with 2 years of experience, dedicated to streamlining development workflows, enhancing system reliability, and enabling faster delivery through automation. Strong collaborator with a problem-solving mindset, focused on bridging the gap between Dev and Ops to ensure seamless deployment, scalability, and performance in cloud environments.♾️⚙️✨
 
 
 ---
